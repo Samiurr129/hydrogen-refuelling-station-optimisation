@@ -1,0 +1,601 @@
+site_id,latitude,longitude,demand_kg_per_day,hub,station,distance_to_station_km
+1,54.00486,-1.727,223.9,Leeds and Bradford,10,36.88
+2,51.69011,-2.04826,150.9,Midlands golden triangle,6,42.81
+3,51.30682,-2.47323,596.7,Bristol and Avonmouth,6,28.71
+4,53.205,-2.61688,207.3,Manchester and Trafford,1,20.81
+5,52.17772,1.06193,209.0,Felixstowe port,7,33.48
+6,54.81612,-1.61504,83.5,Teesside,8,41.24
+7,53.70367,-1.80874,293.1,Leeds and Bradford,10,5.62
+8,53.82354,-2.19124,245.2,Leeds and Bradford,10,34.02
+9,50.82195,-1.12692,123.5,Southampton port,9,19.19
+10,52.24927,-1.17003,284.5,Midlands golden triangle,3,29.79
+11,52.59129,-2.32208,248.6,Midlands golden triangle,3,63.84
+12,55.67364,-4.17446,76.6,Glasgow,4,23.26
+13,53.57052,-2.6052,83.4,Manchester and Trafford,1,21.93
+14,51.62862,-2.61006,124.5,Bristol and Avonmouth,6,9.1
+15,52.90758,-1.67798,183.5,Midlands golden triangle,3,51.32
+16,53.65634,-0.33118,238.8,Immingham port,5,10.85
+17,51.35582,-0.29872,407.7,Greater London,2,22.77
+18,51.81938,0.80088,473.2,Felixstowe port,7,31.81
+19,51.95934,-2.7973,56.3,Bristol and Avonmouth,6,47.35
+20,53.40007,-2.4083,160.6,Manchester and Trafford,1,7.16
+21,53.57939,-1.47327,246.6,Leeds and Bradford,10,20.48
+22,51.97879,-1.08825,616.8,Midlands golden triangle,3,59.42
+23,54.59324,-1.30863,165.3,Teesside,8,12.47
+24,55.97086,-4.80564,198.7,Glasgow,4,37.72
+25,53.70965,-1.08654,162.1,Leeds and Bradford,10,43.24
+26,51.12539,-1.6365,256.0,Southampton port,9,31.17
+27,51.58632,-0.4973,200.2,Greater London,2,22.14
+28,52.12385,1.25899,65.2,Felixstowe port,7,25.05
+29,50.89763,-1.59336,146.6,Southampton port,9,15.64
+30,53.45162,-2.94538,68.3,Manchester and Trafford,1,29.79
+31,53.86686,-1.80939,38.6,Leeds and Bradford,10,21.99
+32,54.67606,-1.16651,117.3,Teesside,8,24.16
+33,52.03478,-1.01757,222.0,Midlands golden triangle,3,55.7
+34,53.20127,-1.23261,227.1,Midlands golden triangle,10,62.34
+35,51.45488,0.23461,261.9,Greater London,2,30.69
+36,51.06915,-1.5117,138.6,Southampton port,9,21.19
+37,50.83526,-1.23055,442.3,Southampton port,9,12.21
+38,51.37599,-0.30442,217.3,Greater London,2,20.84
+39,53.58679,0.02691,46.6,Immingham port,5,14.55
+40,53.28381,-2.59605,44.7,Manchester and Trafford,1,12.2
+41,52.14615,-1.92348,159.5,Midlands golden triangle,3,51.48
+42,51.70053,-2.75093,97.0,Bristol and Avonmouth,6,19.16
+43,53.45717,-1.90302,100.2,Manchester and Trafford,10,26.32
+44,52.16288,-1.16102,157.6,Midlands golden triangle,3,38.6
+45,51.61666,-2.68395,274.2,Bristol and Avonmouth,6,8.75
+46,53.5935,-1.65368,158.6,Leeds and Bradford,10,10.56
+47,52.06661,-2.2589,271.6,Midlands golden triangle,6,62.97
+48,52.33934,-1.9789,169.9,Midlands golden triangle,3,42.43
+49,53.72406,-3.16297,73.3,Manchester and Trafford,1,57.48
+50,50.77529,-1.08691,213.3,Southampton port,9,24.3
+51,51.00369,-1.6443,91.9,Southampton port,9,22.35
+52,52.02052,1.34278,250.2,Felixstowe port,7,15.09
+53,53.74619,-1.56519,197.9,Leeds and Bradford,10,14.1
+54,53.64517,-1.99465,68.1,Manchester and Trafford,10,17.04
+55,52.96386,-1.92096,367.1,Manchester and Trafford,1,60.86
+56,53.5961,-2.21712,191.0,Leeds and Bradford,1,30.83
+57,52.74351,-0.51997,245.4,Midlands golden triangle,3,66.11
+58,51.39954,-0.50776,181.2,Greater London,2,27.86
+59,50.85956,-1.6175,615.4,Southampton port,9,17.93
+60,52.20124,1.57914,103.6,Felixstowe port,7,40.63
+61,53.66257,-2.05798,234.7,Manchester and Trafford,10,20.95
+62,51.83775,0.15585,280.6,Greater London,2,39.84
+63,51.67214,0.02796,61.7,Greater London,2,20.11
+64,53.79507,-1.8196,83.5,Leeds and Bradford,10,14.5
+65,53.84879,-1.64579,406.9,Manchester and Trafford,10,20.48
+66,51.56898,0.46639,181.3,Greater London,2,44.96
+67,51.55481,-0.59474,228.4,Greater London,2,28.48
+68,52.46904,-2.12396,174.6,Midlands golden triangle,3,49.28
+69,51.94923,1.72421,307.8,Felixstowe port,7,33.28
+70,52.45361,-1.32128,184.8,Midlands golden triangle,3,5.81
+71,53.59258,-0.43661,164.4,Immingham port,5,16.24
+72,52.21474,-2.09688,244.6,Midlands golden triangle,3,55.9
+73,51.5705,-3.19714,167.2,Bristol and Avonmouth,6,39.7
+74,53.75455,0.05132,333.1,Immingham port,5,23.08
+75,51.96526,1.14468,93.9,Felixstowe port,7,10.15
+76,52.55866,-1.25377,389.7,Midlands golden triangle,3,13.13
+77,52.79684,-1.51841,85.3,Midlands golden triangle,3,36.32
+78,53.39813,-2.21781,159.4,Manchester and Trafford,1,19.57
+79,51.34381,-0.01021,133.0,Greater London,2,25.62
+80,53.66683,-1.55503,141.4,Leeds and Bradford,10,12.24
+81,53.52498,-2.19663,90.9,Manchester and Trafford,1,26.27
+82,52.29826,-0.70613,89.6,Midlands golden triangle,3,50.97
+83,51.11862,-3.21889,183.2,Bristol and Avonmouth,6,63.08
+84,50.90418,-1.4252,373.0,Southampton port,9,3.87
+85,51.59881,1.41683,459.4,Felixstowe port,7,35.36
+86,51.8076,1.24671,114.6,Felixstowe port,7,10.13
+87,53.61886,-1.74949,423.9,Leeds and Bradford,10,6.09
+88,53.02936,-1.62381,564.5,Midlands golden triangle,3,63.11
+89,50.90481,-1.02424,170.2,Southampton port,9,24.28
+90,51.53542,0.03867,1212.3,Greater London,2,15.39
+91,51.01504,-1.55155,321.9,Southampton port,9,17.97
+92,53.38851,-2.48531,310.5,Manchester and Trafford,1,1.92
+93,52.4598,-1.30587,181.5,Midlands golden triangle,3,6.49
+94,52.55613,-1.23013,56.3,Midlands golden triangle,3,14.18
+95,52.66018,-1.95807,75.8,Midlands golden triangle,3,42.98
+96,53.45684,-2.26822,118.7,Manchester and Trafford,1,18.19
+97,52.71204,-2.14441,141.0,Midlands golden triangle,3,56.79
+98,51.88096,1.31978,212.8,Felixstowe port,7,5.44
+99,50.7638,-1.24481,186.9,Southampton port,9,17.58
+100,54.31433,-1.68657,178.7,Teesside,8,29.39
+101,55.82019,-4.2832,177.0,Glasgow,4,7.79
+102,53.5208,-1.94143,92.4,Manchester and Trafford,10,21.53
+103,53.46163,-0.43909,214.1,Immingham port,5,22.84
+104,54.73824,-1.33055,40.1,Teesside,8,28.47
+105,53.47297,-1.90402,128.8,Leeds and Bradford,10,24.76
+106,53.37802,-2.2854,149.3,Manchester and Trafford,1,15.01
+107,52.78087,-1.79975,107.3,Midlands golden triangle,3,43.24
+108,53.68471,-0.53987,227.4,Immingham port,5,24.63
+109,51.97386,1.29767,466.8,Felixstowe port,7,9.08
+110,55.74789,-3.58854,157.2,Glasgow,4,42.24
+111,52.04734,-1.41383,94.4,Midlands golden triangle,3,47.98
+112,50.79841,-1.31493,251.2,Southampton port,9,12.01
+113,52.25382,-0.93914,360.5,Midlands golden triangle,3,39.87
+114,51.88819,0.10985,407.9,Greater London,2,42.92
+115,50.64584,-1.46812,107.0,Southampton port,9,29.15
+116,51.52148,-2.8454,162.9,Bristol and Avonmouth,6,15.57
+117,54.11913,-1.70175,230.7,Leeds and Bradford,8,46.84
+118,53.41769,-2.27135,180.7,Manchester and Trafford,1,16.44
+119,52.59136,-0.8471,483.7,Midlands golden triangle,3,39.22
+120,53.53973,-2.07693,90.2,Manchester and Trafford,10,26.71
+121,51.47625,0.28824,302.6,Greater London,2,33.56
+122,53.51766,-1.96461,241.6,Manchester and Trafford,10,22.77
+123,52.1222,1.39346,145.4,Felixstowe port,7,26.83
+124,52.5559,-2.96621,226.5,Midlands golden triangle,1,96.69
+125,51.46697,0.95204,236.0,Felixstowe port,7,52.1
+126,51.62906,-0.62468,117.4,Greater London,2,31.83
+127,52.88215,-1.70042,691.4,Midlands golden triangle,3,49.32
+128,50.89974,-1.31257,474.9,Southampton port,9,4.05
+129,51.97771,1.11019,168.5,Felixstowe port,7,12.8
+130,51.49038,-0.71251,154.4,Greater London,2,37.18
+131,50.7997,-1.20194,183.8,Southampton port,9,16.3
+132,55.80905,-4.28409,205.8,Glasgow,4,8.91
+133,51.66671,-0.55403,96.4,Greater London,2,28.84
+134,52.79832,-1.66333,76.9,Midlands golden triangle,3,39.84
+135,51.61995,0.08118,71.8,Greater London,2,19.96
+136,51.99101,1.49131,225.3,Felixstowe port,7,19.71
+137,54.6554,-1.55735,219.6,Teesside,8,23.96
+138,51.41821,-0.32961,303.5,Greater London,2,17.6
+139,54.04654,-1.10284,396.2,Leeds and Bradford,8,50.76
+140,51.94517,1.40735,285.2,Felixstowe port,7,12.22
+141,51.53275,-0.06323,295.1,Greater London,2,8.45
+142,51.48398,-0.43663,140.4,Greater London,2,18.91
+143,55.97422,-4.24904,220.8,Glasgow,4,10.49
+144,51.6811,-0.28274,283.4,Greater London,2,16.37
+145,51.60239,-0.65611,427.7,Greater London,2,33.25
+146,53.55233,-0.56708,96.2,Immingham port,5,25.48
+147,52.12805,-1.42301,152.7,Midlands golden triangle,3,39.03
+148,51.40896,0.14905,220.7,Greater London,2,27.68
+149,52.54965,-1.23797,260.5,Midlands golden triangle,3,13.32
+150,51.67514,1.25008,48.7,Felixstowe port,7,24.86
+151,51.5065,-2.68134,337.1,Bristol and Avonmouth,6,6.02
+152,56.07399,-4.1849,133.3,Glasgow,4,21.57
+153,50.96556,-1.51312,179.8,Southampton port,9,12.34
+154,51.76652,-0.36216,291.9,Greater London,2,27.31
+155,52.05154,1.12061,322.9,Felixstowe port,7,19.04
+156,53.62733,-2.26143,113.9,Manchester and Trafford,1,31.97
+157,52.17908,-1.72817,249.3,Midlands golden triangle,3,40.22
+158,53.25477,-2.13446,85.4,Manchester and Trafford,1,28.73
+159,53.74323,-1.61656,780.6,Leeds and Bradford,10,11.27
+160,53.53184,-1.20114,196.9,Leeds and Bradford,10,38.91
+161,52.01556,1.35595,235.0,Felixstowe port,7,15.03
+162,55.83231,-3.78317,136.9,Glasgow,4,27.9
+163,53.773,-0.33681,173.6,Immingham port,5,21.01
+164,51.81514,1.42979,428.4,Felixstowe port,7,15.68
+165,51.47909,-0.20548,92.2,Greater London,2,7.76
+166,52.3777,-2.27407,104.1,Midlands golden triangle,3,60.55
+167,51.54086,-2.29823,971.2,Bristol and Avonmouth,6,22.55
+168,53.67431,-1.21233,208.3,Leeds and Bradford,10,34.79
+169,52.40231,-1.22619,186.8,Midlands golden triangle,3,14.34
+170,54.58492,-1.32519,77.8,Teesside,8,11.44
+171,51.96327,-1.11203,152.5,Midlands golden triangle,3,60.5
+172,51.33889,-0.11631,290.0,Greater London,2,23.66
+173,53.64437,-0.33947,375.7,Immingham port,5,10.71
+174,56.14454,-4.09122,322.8,Glasgow,4,30.39
+175,51.06783,-1.15785,260.2,Southampton port,9,23.81
+176,52.04086,1.44396,93.2,Felixstowe port,7,20.83
+177,52.67095,-2.15146,111.7,Midlands golden triangle,3,55.31
+178,54.74616,-1.03414,439.4,Teesside,8,35.2
+179,55.81105,-4.61993,155.8,Glasgow,4,26.05
+180,53.79838,-1.62591,355.4,Leeds and Bradford,10,15.82
+181,55.79491,-4.13698,99.5,Glasgow,4,10.95
+182,55.94114,-4.249,114.8,Glasgow,4,6.89
+183,51.43626,-0.19996,153.1,Greater London,2,12.43
+184,53.00853,-1.50093,155.5,Midlands golden triangle,3,59.33
+185,53.40208,-1.92267,153.7,Leeds and Bradford,10,32.48
+186,53.31553,-1.7772,163.0,Manchester and Trafford,10,39.86
+187,52.85627,-1.41808,184.1,Midlands golden triangle,3,42.01
+188,51.948,1.33083,504.8,Felixstowe port,7,8.0
+189,53.36205,-2.26033,129.9,Leeds and Bradford,1,16.81
+190,53.62196,-0.03277,239.1,Immingham port,5,10.64
+191,55.79077,-3.92283,334.0,Glasgow,4,21.19
+192,53.64487,0.02932,212.0,Immingham port,5,15.22
+193,50.82412,-1.25048,192.4,Southampton port,9,11.96
+194,51.50024,-2.25367,41.4,Bristol and Avonmouth,6,26.16
+195,50.70842,-1.65435,144.7,Southampton port,9,29.24
+196,50.86559,-1.72298,99.7,Southampton port,9,25.04
+197,51.26734,0.94691,530.6,Greater London,7,73.18
+198,51.42581,-2.78524,90.3,Bristol and Avonmouth,6,17.51
+199,50.64214,-1.42504,98.9,Southampton port,9,29.0
+200,52.42325,-2.2779,114.0,Midlands golden triangle,3,60.04
+201,53.80678,-1.53833,231.2,Leeds and Bradford,10,19.92
+202,54.39156,-1.03077,111.4,Teesside,8,22.17
+203,51.67104,-0.12462,78.8,Greater London,2,14.32
+204,50.85727,-1.32171,260.0,Southampton port,9,5.91
+205,51.94095,1.66592,329.5,Felixstowe port,7,29.19
+206,53.58532,-0.0191,574.3,Immingham port,5,11.58
+207,51.16493,-1.66312,103.2,Southampton port,9,35.82
+208,53.80444,-2.70043,81.4,Manchester and Trafford,1,48.68
+209,50.8343,-1.30996,169.3,Southampton port,9,8.5
+210,51.32417,-0.41272,117.4,Greater London,2,29.5
+211,53.27191,-1.43669,215.2,Manchester and Trafford,10,48.95
+212,51.73966,-0.33234,161.0,Greater London,2,23.72
+213,50.80357,-1.96818,78.7,Southampton port,9,43.33
+214,53.45376,-2.33603,87.9,Leeds and Bradford,1,14.16
+215,53.76841,-2.31681,390.4,Manchester and Trafford,10,39.37
+216,53.85405,-1.41137,104.8,Leeds and Bradford,10,29.52
+217,50.9708,-1.24386,127.4,Southampton port,9,11.81
+218,50.97561,-1.27868,129.4,Southampton port,9,10.53
+219,55.6577,-4.63017,189.6,Glasgow,4,35.64
+220,52.55311,-1.86003,182.9,Midlands golden triangle,3,32.43
+221,52.6299,-1.13016,456.7,Midlands golden triangle,3,24.64
+222,51.84513,-0.55472,494.3,Greater London,2,41.85
+223,53.35041,-1.90465,187.5,Manchester and Trafford,10,37.51
+224,54.5143,-1.65139,162.4,Teesside,8,20.68
+225,51.9583,-0.94954,447.2,Midlands golden triangle,3,65.39
+226,55.71641,-4.15305,116.5,Glasgow,4,18.81
+227,51.87507,1.49985,175.9,Felixstowe port,7,17.63
+228,51.97018,-0.32937,327.9,Greater London,2,48.06
+229,53.49194,-1.9989,137.6,Manchester and Trafford,10,26.42
+230,51.9533,1.30467,109.0,Felixstowe port,7,7.29
+231,50.98947,-1.26067,257.0,Southampton port,9,12.52
+232,52.93463,-0.70015,143.7,Midlands golden triangle,3,69.08
+233,54.62041,-1.37537,182.5,Teesside,8,15.57
+234,51.33791,0.58337,223.9,Greater London,2,58.01
+235,55.82072,-3.86679,48.9,Glasgow,4,23.15
+236,53.4171,-1.40732,186.7,Leeds and Bradford,10,36.0
+237,51.56769,-0.69587,177.5,Greater London,2,35.52
+238,54.14099,-1.39868,199.3,Leeds and Bradford,8,38.17
+239,51.90067,1.24347,50.2,Felixstowe port,7,0.28
+240,51.99482,1.51541,69.9,Felixstowe port,7,21.34
+241,51.38083,-3.01502,100.9,Bristol and Avonmouth,6,32.8
+242,53.78964,-2.2856,260.2,Leeds and Bradford,10,38.12
+243,53.72187,-0.24721,40.6,Immingham port,5,13.52
+244,51.2307,0.41528,34.0,Greater London,2,54.45
+245,51.40607,-0.63231,291.7,Greater London,2,34.86
+246,51.37836,-2.56308,252.7,Bristol and Avonmouth,6,19.25
+247,51.99628,-0.20811,225.6,Greater London,2,49.93
+248,51.98174,-0.83411,114.1,Midlands golden triangle,2,65.87
+249,52.27319,-1.46151,70.5,Midlands golden triangle,3,23.27
+250,52.52213,-0.94946,214.6,Midlands golden triangle,3,30.65
+251,53.11214,-2.34685,280.9,Manchester and Trafford,1,31.87
+252,51.16162,-2.99108,304.6,Bristol and Avonmouth,6,49.88
+253,52.53517,-1.23686,549.3,Midlands golden triangle,3,12.5
+254,53.68332,-0.04011,915.4,Immingham port,5,13.25
+255,53.59111,-0.37178,232.7,Immingham port,5,12.0
+256,53.8591,-1.81061,96.9,Leeds and Bradford,10,21.17
+257,51.91619,-2.5854,116.0,Bristol and Avonmouth,6,41.11
+258,52.08377,1.30606,154.7,Felixstowe port,7,20.99
+259,52.03598,1.04669,222.4,Felixstowe port,7,20.48
+260,52.01701,0.0824,143.6,Greater London,2,55.31
+261,50.83147,-1.48792,154.6,Southampton port,9,11.28
+262,51.43193,-2.41478,63.6,Bristol and Avonmouth,6,19.35
+263,52.7218,-1.64644,225.7,Midlands golden triangle,3,31.87
+264,50.7477,-1.11531,380.1,Southampton port,9,24.7
+265,56.0329,-4.73632,296.0,Glasgow,4,36.21
+266,50.95471,-1.74396,177.4,Southampton port,9,26.87
+267,52.56494,-1.1623,200.2,Midlands golden triangle,3,18.53
+268,50.93936,-1.08425,375.6,Southampton port,9,20.51
+269,51.57256,1.26039,163.1,Felixstowe port,7,36.28
+270,51.72323,1.35065,380.8,Felixstowe port,7,20.8
+271,51.81317,1.40377,103.9,Felixstowe port,7,14.42
+272,50.8092,-1.08344,130.0,Southampton port,9,22.56
+273,52.02246,0.91964,550.2,Felixstowe port,7,26.25
+274,51.66288,-0.19923,254.2,Greater London,2,12.88
+275,53.15247,-1.85256,148.2,Manchester and Trafford,1,50.68
+276,52.38565,-1.70437,127.0,Midlands golden triangle,3,23.29
+277,52.66904,-1.3176,266.1,Midlands golden triangle,3,21.83
+278,51.49762,0.10281,140.0,Greater London,2,20.54
+279,56.26175,-4.75339,383.6,Glasgow,4,53.67
+280,51.74647,-2.92665,685.8,Bristol and Avonmouth,6,30.44
+281,52.09453,1.54297,183.1,Felixstowe port,7,29.8
+282,50.87065,-1.44487,227.5,Southampton port,9,6.2
+283,53.80935,-0.14869,104.2,Immingham port,5,22.92
+284,53.73141,0.01987,266.6,Immingham port,5,19.8
+285,51.70149,-0.23763,103.1,Greater London,2,17.53
+286,52.17625,-2.29615,207.5,Midlands golden triangle,3,69.77
+287,51.94872,1.23351,30.6,Felixstowe port,7,5.63
+288,52.0567,-0.87011,120.8,Midlands golden triangle,3,59.04
+289,51.59746,-0.72378,426.7,Greater London,2,37.78
+290,51.94054,1.39361,726.6,Felixstowe port,7,11.15
+291,51.77323,-2.76873,126.1,Bristol and Avonmouth,6,27.03
+292,51.91601,1.44182,169.0,Felixstowe port,7,13.58
+293,55.78878,-3.77896,168.1,Glasgow,4,29.49
+294,52.27076,1.3499,525.4,Felixstowe port,7,41.98
+295,51.56438,-2.40128,116.5,Bristol and Avonmouth,6,15.53
+296,55.70617,-4.10241,325.7,Glasgow,4,20.83
+297,54.57544,-1.52987,79.6,Teesside,8,16.24
+298,53.52286,-2.189,192.2,Leeds and Bradford,1,26.54
+299,53.98271,-1.65409,46.4,Leeds and Bradford,10,34.87
+300,53.42704,-2.3616,633.1,Manchester and Trafford,1,11.17
+301,53.51745,-1.76913,500.9,Leeds and Bradford,10,17.44
+302,50.96081,-1.2793,192.8,Southampton port,9,9.25
+303,51.58917,0.21761,110.7,Greater London,2,28.08
+304,51.73731,-0.7161,219.2,Greater London,2,42.41
+305,51.53221,-2.85838,177.6,Bristol and Avonmouth,6,16.29
+306,52.2537,-2.00447,145.6,Midlands golden triangle,3,48.26
+307,52.1019,-1.28299,90.3,Midlands golden triangle,3,42.61
+308,53.63036,-2.74704,128.1,Manchester and Trafford,1,31.77
+309,53.53559,0.11191,219.5,Immingham port,5,21.46
+310,50.87139,-1.29314,50.8,Southampton port,9,6.32
+311,51.48834,0.74724,194.9,Greater London,7,57.12
+312,52.47141,-1.16641,308.1,Midlands golden triangle,3,15.61
+313,53.35007,-0.57329,204.2,Immingham port,5,37.96
+314,52.22459,-0.77119,149.0,Midlands golden triangle,3,51.02
+315,51.84001,-2.10604,34.6,Midlands golden triangle,6,48.32
+316,52.37618,-1.54747,139.5,Midlands golden triangle,3,15.32
+317,52.79019,-0.82992,162.5,Midlands golden triangle,3,51.59
+318,52.98921,-2.06644,251.2,Manchester and Trafford,1,52.73
+319,52.54756,-0.94221,89.5,Midlands golden triangle,3,31.69
+320,54.84145,-1.45365,282.2,Teesside,8,40.65
+321,55.55597,-4.54866,447.1,Glasgow,4,41.55
+322,51.42949,0.24466,207.5,Greater London,2,32.39
+323,52.41691,-0.74438,156.2,Midlands golden triangle,3,44.73
+324,51.01872,-0.46873,250.6,Greater London,2,62.06
+325,51.57126,-3.13357,116.6,Bristol and Avonmouth,6,35.32
+326,53.33898,-2.43828,78.8,Manchester and Trafford,1,6.77
+327,53.66678,-1.87218,286.0,Leeds and Bradford,10,8.71
+328,51.71868,-0.1833,142.3,Greater London,2,19.03
+329,53.50151,-2.60897,90.5,Manchester and Trafford,1,14.84
+330,52.15353,-1.77844,89.6,Midlands golden triangle,3,44.51
+331,53.8092,-1.42749,69.5,Leeds and Bradford,10,25.53
+332,50.9034,-1.44713,220.9,Southampton port,9,5.39
+333,53.46709,-2.85001,84.4,Manchester and Trafford,1,24.37
+334,51.5053,-2.38223,47.7,Bristol and Avonmouth,6,17.37
+335,50.94672,-1.1451,164.2,Southampton port,9,16.6
+336,53.59392,-2.56602,167.6,Manchester and Trafford,1,23.92
+337,51.74096,0.81589,316.9,Felixstowe port,7,34.37
+338,53.60252,-1.7889,78.3,Leeds and Bradford,10,8.5
+339,51.76946,1.29188,116.2,Felixstowe port,7,14.71
+340,55.9281,-4.10471,218.2,Glasgow,4,8.97
+341,50.93224,-1.06193,94.9,Southampton port,9,21.91
+342,54.56258,-0.96596,384.4,Teesside,8,25.49
+343,53.52383,-1.74525,406.6,Leeds and Bradford,10,16.63
+344,51.63732,-0.03522,158.0,Greater London,2,14.28
+345,53.71085,-1.56211,154.7,Leeds and Bradford,10,12.46
+346,53.77233,-1.62603,119.8,Leeds and Bradford,10,13.34
+347,54.64191,-0.55066,62.0,Teesside,8,53.65
+348,53.66379,-0.36319,254.5,Immingham port,5,13.09
+349,51.51258,0.21077,364.4,Greater London,2,27.52
+350,51.986,1.57826,44.1,Felixstowe port,7,24.76
+351,53.82821,-2.15809,343.7,Manchester and Trafford,10,32.41
+352,50.73515,-1.57801,196.5,Southampton port,9,23.48
+353,51.4954,0.0029,345.0,Greater London,2,14.11
+354,51.02291,0.30279,180.9,Greater London,2,67.41
+355,51.44492,-0.7587,243.4,Greater London,2,41.45
+356,50.84754,0.16151,73.5,Greater London,2,81.45
+357,53.78963,-1.68634,363.1,Leeds and Bradford,10,13.41
+358,53.74781,-1.86166,132.8,Leeds and Bradford,10,11.5
+359,51.84402,0.11284,142.8,Greater London,2,38.77
+360,51.4361,-0.8004,227.2,Greater London,2,44.5
+361,55.54292,-4.00863,194.4,Glasgow,4,39.91
+362,51.22256,-1.63573,169.2,Southampton port,9,40.32
+363,52.20301,1.59127,118.5,Felixstowe port,7,41.27
+364,51.99027,1.33044,213.2,Felixstowe port,7,11.72
+365,53.31264,-2.3338,69.0,Manchester and Trafford,1,14.06
+366,52.49261,-1.21717,157.0,Midlands golden triangle,3,12.25
+367,53.489,-1.34857,224.0,Leeds and Bradford,10,33.01
+368,53.30648,-2.40617,73.2,Manchester and Trafford,1,10.87
+369,52.12667,-1.72825,376.2,Midlands golden triangle,3,45.18
+370,55.74477,-4.04446,130.3,Glasgow,4,18.78
+371,53.82468,-1.69312,303.9,Leeds and Bradford,10,17.12
+372,53.54773,-0.54827,78.6,Immingham port,5,24.4
+373,52.28229,-2.09623,230.2,Midlands golden triangle,3,52.27
+374,52.30314,-0.22144,63.5,Midlands golden triangle,3,82.1
+375,50.92752,-1.64169,133.9,Southampton port,9,19.26
+376,50.91911,-1.89826,207.5,Southampton port,9,37.07
+377,56.20287,-4.39558,210.4,Glasgow,4,37.37
+378,52.77317,-1.53483,127.0,Midlands golden triangle,3,34.05
+379,51.73243,-1.11837,168.2,Midlands golden triangle,2,67.74
+380,53.59753,-1.6114,126.8,Leeds and Bradford,10,11.98
+381,51.35718,0.14323,80.6,Greater London,2,30.97
+382,56.04871,-4.69873,120.9,Glasgow,4,35.05
+383,54.12648,-1.30623,190.9,Leeds and Bradford,8,39.61
+384,51.2458,-0.34979,188.1,Greater London,2,35.49
+385,52.46183,-1.49701,176.7,Midlands golden triangle,3,7.06
+386,54.54103,-1.56614,132.0,Teesside,8,16.23
+387,53.676,-2.81774,160.6,Manchester and Trafford,1,38.51
+388,54.45922,-1.20404,142.6,Teesside,8,8.9
+389,51.09965,-1.29145,81.9,Southampton port,9,22.81
+390,51.62094,-2.90421,127.3,Bristol and Avonmouth,6,21.01
+391,53.54068,-2.48606,307.6,Manchester and Trafford,1,17.81
+392,50.79534,-1.53262,121.4,Southampton port,9,16.33
+393,51.34712,0.35722,262.5,Greater London,2,43.57
+394,53.85512,-1.44198,97.0,Manchester and Trafford,10,28.17
+395,51.96952,1.07206,112.9,Felixstowe port,7,14.29
+396,52.25133,-1.99694,95.8,Midlands golden triangle,3,47.97
+397,51.474,-3.03217,298.3,Bristol and Avonmouth,6,29.39
+398,52.16062,0.0036,137.3,Midlands golden triangle,2,69.37
+399,52.47271,-2.12018,501.0,Midlands golden triangle,3,49.01
+400,52.803,-1.29638,80.2,Midlands golden triangle,3,36.69
+401,52.51643,-2.0302,432.8,Midlands golden triangle,3,43.1
+402,56.0058,-4.21936,41.7,Glasgow,4,13.86
+403,53.60281,-1.44028,372.7,Leeds and Bradford,10,21.29
+404,52.10989,0.98087,215.7,Felixstowe port,7,29.68
+405,54.70723,-1.61657,179.1,Teesside,8,30.86
+406,55.90934,-4.34656,59.2,Glasgow,4,8.39
+407,52.3473,-1.61934,164.7,Midlands golden triangle,3,21.02
+408,51.39847,-2.80823,175.8,Bristol and Avonmouth,6,20.89
+409,52.01979,1.26324,140.8,Felixstowe port,7,13.52
+410,54.58248,-1.67778,239.6,Teesside,8,24.71
+411,53.46987,-2.28498,320.3,Manchester and Trafford,1,17.96
+412,53.03018,-3.04685,212.1,Manchester and Trafford,1,52.87
+413,51.95904,1.36732,136.4,Felixstowe port,7,10.69
+414,55.9797,-3.95057,240.7,Glasgow,4,20.13
+415,51.92475,0.86778,285.6,Felixstowe port,7,26.1
+416,53.7851,-0.04315,106.2,Immingham port,5,22.3
+417,50.99105,-1.21561,458.6,Southampton port,9,14.79
+418,53.62214,-1.71905,281.8,Leeds and Bradford,10,5.86
+419,50.90776,-1.63941,230.8,Southampton port,9,18.88
+420,55.96426,-4.22176,205.3,Glasgow,4,9.24
+421,53.41173,-1.74066,104.9,Manchester and Trafford,10,29.09
+422,51.88063,1.33241,305.0,Felixstowe port,7,6.27
+423,51.75765,1.04265,53.0,Felixstowe port,7,21.0
+424,51.96442,1.08476,142.9,Felixstowe port,7,13.25
+425,51.67875,-0.39853,206.8,Greater London,2,20.84
+426,53.72607,-1.44505,239.4,Leeds and Bradford,10,20.31
+427,53.5265,-0.22842,336.7,Immingham port,5,9.05
+428,51.57088,-3.08434,266.8,Bristol and Avonmouth,6,31.92
+429,51.81343,1.63976,332.8,Felixstowe port,7,28.66
+430,53.83223,-1.60205,158.8,Leeds and Bradford,10,19.87
+431,55.98226,-4.36904,207.3,Glasgow,4,14.52
+432,53.93711,-1.82131,124.4,Leeds and Bradford,10,29.81
+433,53.201,-2.70277,60.1,Manchester and Trafford,1,23.73
+434,51.6315,-2.15643,423.3,Bristol and Avonmouth,6,33.64
+435,51.74026,1.48896,422.5,Felixstowe port,7,24.28
+436,50.83827,-1.37826,54.0,Southampton port,9,6.95
+437,50.93605,-1.62789,202.9,Southampton port,9,18.48
+438,51.07805,0.11569,332.8,Greater London,2,56.18
+439,53.63889,-1.99668,49.4,Leeds and Bradford,10,17.31
+440,53.41,-2.52006,71.0,Manchester and Trafford,1,3.24
+441,51.58163,-2.81024,94.4,Bristol and Avonmouth,6,13.42
+442,50.82506,-1.17045,258.5,Southampton port,9,16.35
+443,53.75657,-1.46122,89.7,Leeds and Bradford,10,20.57
+444,50.90437,-1.36843,135.8,Southampton port,9,0.44
+445,53.67885,-0.36781,244.4,Immingham port,5,14.25
+446,53.59429,-3.40378,367.7,Manchester and Trafford,1,63.6
+447,54.15816,-1.37361,333.0,Teesside,8,36.12
+448,53.39854,-2.85477,93.4,Manchester and Trafford,1,22.84
+449,52.09877,0.90861,354.4,Felixstowe port,7,32.06
+450,53.45759,-2.75117,126.9,Manchester and Trafford,1,18.0
+451,51.82254,1.51996,279.3,Felixstowe port,7,20.64
+452,55.55024,-4.37957,107.2,Glasgow,4,38.1
+453,53.76133,-2.81084,471.3,Manchester and Trafford,1,46.65
+454,50.8955,-1.64897,119.9,Southampton port,9,19.55
+455,51.85167,1.05048,190.5,Felixstowe port,7,14.4
+456,50.73407,-1.86719,143.3,Southampton port,9,39.51
+457,54.32637,-1.40534,104.3,Teesside,8,17.91
+458,52.17529,-0.41475,186.2,Midlands golden triangle,2,71.6
+459,53.82421,-2.19168,121.6,Leeds and Bradford,10,34.08
+460,53.51849,-2.68766,310.4,Manchester and Trafford,1,19.2
+461,51.17495,-0.24433,126.6,Greater London,2,41.65
+462,50.92221,-1.53724,153.0,Southampton port,9,11.94
+463,54.53809,-1.40119,240.8,Teesside,8,7.5
+464,52.52517,-1.49585,139.0,Midlands golden triangle,3,8.48
+465,51.71528,-0.22239,149.7,Greater London,2,18.85
+466,53.49358,-1.65805,80.5,Manchester and Trafford,10,20.71
+467,53.64339,-3.01633,205.1,Manchester and Trafford,1,44.31
+468,56.1438,-4.09311,199.4,Glasgow,4,30.28
+469,50.82426,-1.39335,154.7,Southampton port,9,8.64
+470,51.28757,-0.24585,202.8,Greater London,2,29.23
+471,52.20808,-1.86715,79.6,Midlands golden triangle,3,43.9
+472,51.6056,0.11676,206.8,Greater London,2,21.7
+473,51.03043,-1.38117,227.7,Southampton port,9,14.46
+474,50.94106,-1.41961,130.9,Southampton port,9,5.67
+475,53.91921,-0.29297,120.7,Immingham port,5,35.59
+476,52.58685,-1.3197,77.5,Midlands golden triangle,3,13.1
+477,52.804,-1.49873,92.4,Midlands golden triangle,3,36.82
+478,53.73774,-2.06326,84.3,Manchester and Trafford,10,22.42
+479,53.87027,-2.05073,178.9,Manchester and Trafford,10,29.92
+480,52.95142,-1.36758,177.0,Midlands golden triangle,3,52.6
+481,52.2418,-1.14897,239.6,Midlands golden triangle,3,31.25
+482,53.62198,-0.36998,194.6,Immingham port,5,11.93
+483,51.48114,-0.69894,74.4,Greater London,2,36.45
+484,52.6282,-2.79615,203.6,Midlands golden triangle,1,85.88
+485,51.89539,1.6169,133.9,Felixstowe port,7,25.46
+486,52.65795,-1.65535,192.7,Midlands golden triangle,3,26.52
+487,51.69915,-0.32082,327.3,Greater London,2,19.36
+488,53.48572,-0.12288,313.1,Immingham port,5,14.0
+489,51.67839,0.71204,113.9,Greater London,7,44.14
+490,51.12726,-0.5517,267.5,Greater London,2,53.29
+491,53.58214,-2.26131,91.8,Manchester and Trafford,1,27.81
+492,53.64272,-2.7634,360.8,Manchester and Trafford,1,33.5
+493,54.11357,-2.16134,255.4,Manchester and Trafford,10,56.19
+494,52.29459,-2.38656,125.4,Midlands golden triangle,3,70.24
+495,53.58308,-2.09124,505.9,Leeds and Bradford,10,25.21
+496,51.57375,0.04484,149.5,Greater London,2,16.02
+497,52.39549,-0.95097,176.5,Midlands golden triangle,3,31.59
+498,53.58953,-2.37416,146.6,Manchester and Trafford,1,24.88
+499,52.00638,-2.47324,153.9,Midlands golden triangle,6,52.1
+500,51.51527,-0.67838,176.3,Greater London,2,34.45
+501,53.78969,-2.30743,103.9,Leeds and Bradford,10,39.48
+502,55.93338,-4.12573,90.1,Glasgow,4,8.34
+503,55.88855,-3.92175,286.9,Glasgow,4,18.72
+504,51.47425,-0.32318,123.4,Greater London,2,12.66
+505,51.62644,-0.03529,262.6,Greater London,2,13.46
+506,53.80376,-1.40033,190.5,Leeds and Bradford,10,26.66
+507,52.69742,-0.99946,111.1,Midlands golden triangle,3,36.21
+508,51.17421,-2.23325,210.0,Bristol and Avonmouth,6,49.57
+509,51.03663,-0.42991,286.0,Greater London,2,59.34
+510,51.92221,1.2177,417.2,Felixstowe port,7,3.25
+511,51.81847,1.15497,204.3,Felixstowe port,7,10.89
+512,51.57035,-2.53634,311.0,Bristol and Avonmouth,6,6.59
+513,51.98683,1.43732,154.1,Felixstowe port,7,16.38
+514,52.46977,-1.39436,204.8,Midlands golden triangle,3,1.01
+515,52.69359,-1.16278,184.8,Midlands golden triangle,3,28.64
+516,50.79066,-1.3855,177.0,Southampton port,9,12.27
+517,52.51091,-0.3084,131.5,Midlands golden triangle,3,73.75
+518,53.85609,-1.32419,190.9,Leeds and Bradford,10,34.08
+519,52.27593,1.2471,218.6,Felixstowe port,7,41.95
+520,51.35607,-2.78175,209.0,Bristol and Avonmouth,6,23.9
+521,51.65249,-2.58764,383.1,Bristol and Avonmouth,6,11.97
+522,52.42006,-1.62186,911.7,Midlands golden triangle,3,16.6
+523,50.95328,-1.55416,118.7,Southampton port,9,14.15
+524,51.24522,0.28662,144.7,Greater London,2,46.82
+525,50.91721,-1.41361,279.2,Southampton port,9,3.55
+526,52.18301,-2.00647,205.9,Midlands golden triangle,3,52.9
+527,54.65121,-1.15248,110.8,Teesside,8,22.2
+528,54.66155,-1.4034,131.6,Teesside,8,20.4
+529,53.60992,-1.25324,263.2,Leeds and Bradford,10,32.88
+530,52.64076,-0.80473,973.2,Midlands golden triangle,3,43.88
+531,53.08504,-2.57938,124.4,Manchester and Trafford,1,33.25
+532,53.27837,-2.70773,150.4,Manchester and Trafford,1,17.34
+533,52.06639,-1.27666,185.7,Midlands golden triangle,3,46.57
+534,53.57834,-2.10789,258.5,Manchester and Trafford,10,26.43
+535,51.90954,1.79517,207.2,Felixstowe port,7,37.7
+536,53.36831,-0.41837,63.3,Immingham port,5,30.28
+537,51.50469,-0.17288,135.9,Greater London,2,4.81
+538,51.17175,-1.28237,278.3,Southampton port,9,30.77
+539,50.77418,-1.61409,184.0,Southampton port,9,22.15
+540,51.53117,-3.21729,161.5,Bristol and Avonmouth,6,41.06
+541,54.5719,-1.28015,110.5,Teesside,8,10.6
+542,51.35418,-0.19678,190.1,Greater London,2,21.52
+543,51.60897,-2.36716,150.9,Bristol and Avonmouth,6,19.04
+544,54.50836,-1.12798,259.7,Teesside,8,13.74
+545,50.84132,-1.23064,324.0,Southampton port,9,11.81
+546,52.85729,-0.52994,107.0,Midlands golden triangle,3,72.02
+547,52.45438,-1.44417,169.7,Midlands golden triangle,3,4.21
+548,51.87226,1.00422,190.3,Felixstowe port,7,16.85
+549,53.64156,-1.62378,111.8,Leeds and Bradford,10,8.46
+550,52.10326,-1.32878,197.1,Midlands golden triangle,3,42.0
+551,51.65656,0.82901,212.6,Greater London,7,39.34
+552,50.96555,-1.63089,83.2,Southampton port,9,19.63
+553,51.1139,-1.59787,96.2,Southampton port,9,28.56
+554,55.85296,-4.27896,104.7,Glasgow,4,4.75
+555,51.91879,1.5996,111.0,Felixstowe port,7,24.37
+556,53.43167,0.02475,241.9,Immingham port,5,23.98
+557,52.25434,-2.26857,115.1,Midlands golden triangle,3,64.25
+558,51.48522,0.38609,96.6,Greater London,2,39.99
+559,51.47716,0.17312,43.1,Greater London,2,25.86
+560,51.7794,-0.63337,219.7,Greater London,2,40.37
+561,51.99334,1.56785,250.5,Felixstowe port,7,24.45
+562,53.29874,-0.3688,195.6,Immingham port,5,36.0
+563,51.46487,-2.54176,289.0,Bristol and Avonmouth,6,10.79
+564,53.60704,-2.38108,59.5,Manchester and Trafford,1,26.55
+565,53.36741,-2.14246,93.6,Manchester and Trafford,1,24.54
+566,53.61218,-1.95629,194.2,Manchester and Trafford,10,15.77
+567,53.22797,-2.03973,558.2,Leeds and Bradford,1,35.69
+568,51.88614,0.89488,377.7,Felixstowe port,7,24.13
+569,52.45421,-0.87833,212.5,Midlands golden triangle,3,35.21
+570,51.62393,0.0376,273.5,Greater London,2,17.45
+571,53.16811,-0.94763,69.7,Midlands golden triangle,5,69.81
+572,51.58048,-2.34961,370.4,Bristol and Avonmouth,6,19.33
+573,51.3847,0.38577,314.1,Greater London,2,43.36
+574,54.24352,-1.8787,132.8,Leeds and Bradford,8,44.06
+575,51.44484,-2.82189,105.5,Bristol and Avonmouth,6,17.81
+576,50.75333,-0.30873,224.7,Greater London,9,76.34
+577,55.77113,-3.62864,181.5,Glasgow,4,39.01
+578,51.84893,-0.0065,295.5,Greater London,2,35.66
+579,51.55031,-2.28382,186.1,Bristol and Avonmouth,6,23.53
+580,52.60643,-1.26047,151.4,Midlands golden triangle,3,16.92
+581,51.60945,0.85008,153.0,Greater London,7,42.15
+582,51.61337,0.42608,356.8,Greater London,2,42.72
+583,51.96158,0.80732,245.4,Felixstowe port,7,30.87
+584,51.75017,-0.68949,199.3,Midlands golden triangle,2,41.58
+585,56.04012,-4.53963,70.9,Glasgow,4,26.54
+586,53.52873,-2.31271,134.0,Manchester and Trafford,1,21.03
+587,50.91144,-0.80702,297.0,Southampton port,9,39.52
+588,52.78092,-1.01337,437.3,Midlands golden triangle,3,42.4
+589,50.87431,-1.84027,160.7,Southampton port,9,33.09
+590,52.06969,1.11732,161.9,Felixstowe port,7,20.95
+591,55.73536,-3.76777,282.2,Glasgow,4,32.67
+592,52.65544,-1.1284,176.0,Midlands golden triangle,3,26.73
+593,52.51229,-2.06318,48.5,Midlands golden triangle,3,45.28
+594,51.54056,0.02066,371.9,Greater London,2,14.11
+595,52.17234,1.6743,98.9,Felixstowe port,7,42.25
+596,53.5724,-0.08057,822.3,Immingham port,5,8.16
+597,53.80336,-1.87645,142.6,Manchester and Trafford,10,17.0
+598,53.27108,-2.0015,93.0,Manchester and Trafford,1,36.03
+599,54.53778,-1.25676,468.1,Teesside,8,8.02
+600,53.39011,-3.22295,243.6,Manchester and Trafford,1,47.18
